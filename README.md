@@ -1,37 +1,49 @@
 <div align="center">
-  <h1>Hi 👋, I'm Lefrand Bima Dzaki</h1>
-  <h3>A Passionate Mobile App Developer</h3>
+  <h1>Hi, I'm Lefrand Bima Dzaki</h1>
+  <p>
+    <strong>Full Stack Software Engineer</strong> • Web • Mobile • API
+    <br />
+    <a href="https://linkedin.com/in/lefrandbimadzaki" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:lefrandbima@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
-<br>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lefrandbimadzaki&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
-<img align="right" src="https://github.com/lilbimz/lilbimz/raw/main/Anime%20Girl%20GIF.gif" width="250"/>
-
-- 🌱 I'm currently learning **Flutter**
-- 💼 I'm currently working on a **Mobile App Project**
-- 🎯 Goals: Become a professional **Flutter Developer**
-- 💬 Ask me about **Flutter, Dart, or Mobile Development**
-- 📫 How to reach me: **lefrandbima@gmail.com**
-- 🌍 Based in **Indonesia**
-- ⚡ Fun fact: I love building mobile apps 🚀
-
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/lefrandbimadzaki">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/lefrandbima_">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <b><font size="4">📌 Profile Overview</font></b>
+      <p>
+        Full Stack Software Engineer with expertise across Web, Mobile, and API development - currently working as a <strong>Mobile Developer</strong>. Focused on clean architecture, performance, and seamless user experiences.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong><br />
+        <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/-Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
+        <img src="https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white" alt="Deno" />
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      </p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="./k-on-yui.gif" width="185" alt="Developer Avatar" />
+      <br />
+      <sub><b>Building & Jamming 🎸</b></sub>
+    </td>
+  </tr>
+</table>
+<hr />
+<p align="center">
+  <sub>© Lefrand Bima Dzaki • Open for full-stack, web, and mobile engineering opportunities</sub>
 </p>
